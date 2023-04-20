@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gym-typescript/static/css/main.8aebaafe.css",
+    "main.js": "/gym-typescript/static/js/main.7bf943fb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gym-typescript/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image4.png": "/gym-typescript/static/media/image4.2d1e494f729dadf8e1ef.png",
+    "static/media/image6.png": "/gym-typescript/static/media/image6.3e4b96cb1a61baf154be.png",
+    "static/media/image3.png": "/gym-typescript/static/media/image3.c175348892ea4f0aa60c.png",
+    "static/media/image2.png": "/gym-typescript/static/media/image2.e94f50c411af217c548e.png",
+    "static/media/image5.png": "/gym-typescript/static/media/image5.198f84b59b230ce3e6b5.png",
+    "static/media/image1.png": "/gym-typescript/static/media/image1.fa9e1496acf9cac66c12.png",
+    "static/media/BP.png": "/gym-typescript/static/media/BP.e6384e6d55126cf937e9.png",
+    "static/media/HP.png": "/gym-typescript/static/media/HP.b3aae5db91f9f4445ad7.png",
+    "static/media/ContactUsPageGraphic.png": "/gym-typescript/static/media/ContactUsPageGraphic.cb6b05e82d856d0e1f22.png",
+    "static/media/HomePageText.png": "/gym-typescript/static/media/HomePageText.501df4a501b9192320fd.png",
+    "index.html": "/gym-typescript/index.html",
+    "main.8aebaafe.css.map": "/gym-typescript/static/css/main.8aebaafe.css.map",
+    "main.7bf943fb.js.map": "/gym-typescript/static/js/main.7bf943fb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gym-typescript/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aebaafe.css",
+    "static/js/main.7bf943fb.js"
+  ]
+}
