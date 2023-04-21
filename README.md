@@ -4,6 +4,18 @@ A web application built using React and TypeScript for a gym website. The websit
 ## Live Demo
 https://myelmasry.github.io/gym-typescript/
 
+## Responsive Design
+This web application is designed to be responsive and optimized for various screen sizes. It has been tested on the following screen sizes:
+
+<ul>
+<li>Desktop (1920x1080)</li>
+<li>Laptop (1366x768)</li>
+<li>Tablet (768x1024)</li>
+<li>Mobile (375x667)</li>
+</ul>
+
+The website has been designed to adapt to different screen sizes, providing an optimal user experience on all devices.
+
 ## Libraries Used
 
 <ul>
